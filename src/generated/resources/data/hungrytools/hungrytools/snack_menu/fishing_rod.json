@@ -1,0 +1,18 @@
+{
+  "desirable": [
+    {
+      "tag": "hungrytools:fishing_rod_desirables"
+    }
+  ],
+  "snacks": [
+    {
+      "hunger": 2,
+      "ingredient": {
+        "tag": "hungrytools:fishing_rod_snacks"
+      }
+    }
+  ],
+  "tool": {
+    "tag": "c:tools/fishing_rod"
+  }
+}

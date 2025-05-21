@@ -1,0 +1,23 @@
+{
+  "values": [
+    "#c:foods/raw_meat",
+    "#c:strings",
+    "#c:bones",
+    "#c:leathers",
+    "minecraft:vine",
+    "minecraft:cobweb",
+    "minecraft:cocoa_beans",
+    "minecraft:bamboo",
+    "minecraft:big_dripleaf",
+    "minecraft:chorus_flower",
+    "minecraft:chorus_fruit",
+    "minecraft:chorus_plant",
+    "minecraft:melon",
+    "minecraft:melon_slice",
+    "minecraft:pumpkin",
+    "minecraft:carved_pumpkin",
+    "minecraft:jack_o_lantern",
+    "minecraft:glow_lichen",
+    "minecraft:moss_carpet"
+  ]
+}

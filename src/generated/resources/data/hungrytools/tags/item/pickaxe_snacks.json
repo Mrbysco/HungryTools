@@ -1,0 +1,12 @@
+{
+  "values": [
+    "#c:cobblestones",
+    "#c:stones",
+    "#c:end_stones",
+    "#c:bricks",
+    "#minecraft:walls",
+    "#c:concretes",
+    "#c:glass_blocks",
+    "#c:glass_panes"
+  ]
+}

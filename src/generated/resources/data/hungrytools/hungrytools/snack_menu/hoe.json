@@ -1,0 +1,18 @@
+{
+  "desirable": [
+    {
+      "tag": "hungrytools:hoe_desirables"
+    }
+  ],
+  "snacks": [
+    {
+      "hunger": 2,
+      "ingredient": {
+        "tag": "hungrytools:hoe_snacks"
+      }
+    }
+  ],
+  "tool": {
+    "tag": "minecraft:hoes"
+  }
+}

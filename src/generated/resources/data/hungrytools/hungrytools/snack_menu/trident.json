@@ -1,0 +1,24 @@
+{
+  "desirable": [
+    {
+      "tag": "hungrytools:trident_desirables"
+    }
+  ],
+  "snacks": [
+    {
+      "hunger": 2,
+      "ingredient": {
+        "tag": "hungrytools:trident_snacks"
+      }
+    },
+    {
+      "hunger": 2147483647,
+      "ingredient": {
+        "item": "minecraft:wet_sponge"
+      }
+    }
+  ],
+  "tool": {
+    "item": "minecraft:trident"
+  }
+}

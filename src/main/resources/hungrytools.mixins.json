@@ -1,0 +1,10 @@
+{
+  "required": true,
+  "minVersion": "0.8.5",
+  "compatibilityLevel": "JAVA_21",
+  "package": "com.mrbysco.hungrytools.mixin",
+  "target": "@env(DEFAULT)",
+  "mixins": [
+    "ItemStackMixin"
+  ]
+}

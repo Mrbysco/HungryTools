@@ -1,0 +1,8 @@
+{
+  "hungry": {
+    "sounds": [
+      "hungrytools:stomach_rumble"
+    ],
+    "subtitle": "hungrytools.subtitle.hungry"
+  }
+}

@@ -1,0 +1,13 @@
+// 1.21.1	2025-05-22T00:33:34.9362108	Tags for minecraft:item mod id hungrytools
+a65b547db80c2ac8347d388c2217f7f09d01ccbe data/hungrytools/tags/item/axe_snacks.json
+c5eaed9f78cc4b8233338a92dc032efcbcf25a2d data/hungrytools/tags/item/bow_snacks.json
+c5eaed9f78cc4b8233338a92dc032efcbcf25a2d data/hungrytools/tags/item/crossbow_snacks.json
+81affac5528430f07637bdfbf4a6a73241d81ed6 data/hungrytools/tags/item/fishing_rod_snacks.json
+b59e810fd67cd3b2b98fdd92a71d2d1dea715480 data/hungrytools/tags/item/flint_snacks.json
+95872a77d33472eda85e995695ed579aaafa082b data/hungrytools/tags/item/hoe_snacks.json
+24fd188eb5cc1c9b31d2cd38091c41d79ded5107 data/hungrytools/tags/item/mace_snacks.json
+9e78312475a4106640faf9dd0c03de2ab1a4dc4b data/hungrytools/tags/item/pickaxe_snacks.json
+6168ecd45360152ce61c34bf87e0c706820c893a data/hungrytools/tags/item/shears_snacks.json
+4bb943d95d848298d485052eaa390f9c1d1cb218 data/hungrytools/tags/item/shovel_snacks.json
+0c28636f68e72c4e06c8a1d5b4f9d0ef49812b4f data/hungrytools/tags/item/sword_snacks.json
+40688ba431481762062211bc5c427b33cf204bb1 data/hungrytools/tags/item/trident_snacks.json

@@ -1,0 +1,18 @@
+{
+  "hungrytools.configuration.general": "General",
+  "hungrytools.configuration.general.tooltip": "General settings",
+  "hungrytools.configuration.rumbleChance": "Rumble Chance",
+  "hungrytools.configuration.rumbleChance.tooltip": "Chance of the stomach rumbling when hungry (Checked every second, 0.1 = 10% chance) [Default: 0.005]",
+  "hungrytools.configuration.stomachRumbling": "Stomach Rumbling",
+  "hungrytools.configuration.stomachRumbling.tooltip": "Should the tools stomach rumble every so often when hungry? [Default: true]",
+  "hungrytools.insertion.desired_fail": "This tool desires a different item",
+  "hungrytools.insertion.fail": "This is not the right food for a tool like this",
+  "hungrytools.subtitle.hungry": "Rumbling of a tool's stomach",
+  "hungrytools.tool.allergic": "Your %s is allergic to %s",
+  "hungrytools.tool.allergic.tooltip": "Allergic to %s",
+  "hungrytools.tool.desire": "Your %s wants to eat a %s",
+  "hungrytools.tool.desire.consumed": "Your %s enjoyed eating %s",
+  "hungrytools.tool.desire.tooltip": "Desires to eat %s",
+  "hungrytools.tool.fullness": "%s/%s",
+  "hungrytools.tool.hungry": "Your %s is hungry"
+}

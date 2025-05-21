@@ -1,0 +1,15 @@
+{
+  "values": [
+    "#minecraft:wool",
+    "#minecraft:wool_carpets",
+    "#minecraft:leaves",
+    "minecraft:glow_lichen",
+    "minecraft:vine",
+    "minecraft:cobweb",
+    "minecraft:tall_grass",
+    "minecraft:large_fern",
+    "minecraft:dead_bush",
+    "minecraft:fern",
+    "minecraft:seagrass"
+  ]
+}

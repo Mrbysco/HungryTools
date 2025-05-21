@@ -1,0 +1,18 @@
+{
+  "desirable": [
+    {
+      "tag": "hungrytools:bow_desirables"
+    }
+  ],
+  "snacks": [
+    {
+      "hunger": 2,
+      "ingredient": {
+        "tag": "hungrytools:bow_snacks"
+      }
+    }
+  ],
+  "tool": {
+    "tag": "c:tools/bow"
+  }
+}
