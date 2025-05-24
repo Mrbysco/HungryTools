@@ -26,6 +26,9 @@ public class HungryLanguageProvider extends LanguageProvider {
 		this.add("hungrytools.insertion.desired_fail", "This tool desires a different item");
 		this.add("hungrytools.insertion.fail", "This is not the right food for a tool like this");
 
+		this.add("hungrytools.tooltip.snack", "This tool may consume these snacks");
+		this.add("hungrytools.tooltip.desirable", "This tool may desire these snacks");
+
 		this.addSubtitle(HungrySounds.HUNGRY, "Rumbling of a tool's stomach");
 
 		this.addConfig("general", "General", "General settings");

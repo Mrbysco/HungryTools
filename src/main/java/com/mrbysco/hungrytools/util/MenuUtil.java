@@ -75,6 +75,14 @@ public class MenuUtil {
 		return null;
 	}
 
+	/**
+	 * Get an unmodifiable view of the snack menus map
+	 * @return an unmodifiable map of ResourceLocation to SnackMenu
+	 */
+	public static Map<ResourceLocation, SnackMenu> getSnackMenus() {
+		return Collections.unmodifiableMap(snackMenus);
+	}
+
 	@SubscribeEvent
 	public static void onDatapackSync(OnDatapackSyncEvent event) {
 		final RegistryAccess registryAccess = event.getPlayerList().getServer().registryAccess();

@@ -14,5 +14,7 @@
   "hungrytools.tool.desire.consumed": "Your %s enjoyed eating %s",
   "hungrytools.tool.desire.tooltip": "Desires to eat %s",
   "hungrytools.tool.fullness": "%s/%s",
-  "hungrytools.tool.hungry": "Your %s is hungry"
+  "hungrytools.tool.hungry": "Your %s is hungry",
+  "hungrytools.tooltip.desirable": "This tool may desire these snacks",
+  "hungrytools.tooltip.snack": "This tool may consume these snacks"
 }
