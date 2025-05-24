@@ -28,10 +28,7 @@ import net.minecraft.world.item.crafting.Ingredient;
 import net.minecraft.world.level.Level;
 import net.neoforged.bus.api.SubscribeEvent;
 import net.neoforged.neoforge.event.ItemStackedOnOtherEvent;
-import net.neoforged.neoforge.event.entity.living.LivingIncomingDamageEvent;
 import net.neoforged.neoforge.event.entity.player.ItemTooltipEvent;
-import net.neoforged.neoforge.event.entity.player.PlayerInteractEvent.EntityInteractSpecific;
-import net.neoforged.neoforge.event.level.BlockEvent.BreakEvent;
 import net.neoforged.neoforge.event.tick.PlayerTickEvent;
 
 import javax.annotation.Nullable;
@@ -39,30 +36,6 @@ import java.util.List;
 import java.util.function.Consumer;
 
 public class ToolHandler {
-	@SubscribeEvent
-	public void onRightClick(EntityInteractSpecific event) {
-		final ItemStack stack = event.getItemStack();
-		if (MenuUtil.isValidTool(stack)) {
-			//TODO: Do stuff
-		}
-	}
-
-	@SubscribeEvent
-	public void onBreakBlock(BreakEvent event) {
-		final Player player = event.getPlayer();
-		final ItemStack stack = player.getMainHandItem();
-		if (MenuUtil.isValidTool(stack)) {
-			//TODO: Do stuff
-		}
-	}
-
-	@SubscribeEvent
-	public void onHitEntity(LivingIncomingDamageEvent event) {
-		final ItemStack stack = event.getSource().getWeaponItem();
-		if (stack != null && MenuUtil.isValidTool(stack)) {
-			//TODO: Do stuff
-		}
-	}
 
 	@SubscribeEvent
 	public void onStack(ItemStackedOnOtherEvent event) {
