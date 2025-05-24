@@ -237,12 +237,12 @@ public class ToolHandler {
 
 	public static void onStackDamage(ItemStack stack, ServerLevel level, @Nullable LivingEntity entity, Consumer<Item> itemConsumer) {
 		if (MenuUtil.isValidTool(stack)) {
-			HungryTools.LOGGER.debug("Handling stack damage");
+//			HungryTools.LOGGER.debug("Handling stack damage");
 			SnackMenu menu = MenuUtil.getSnackMenu(stack);
 			if (menu != null && !stack.has(HungryDataComponents.ALLERGIC)) {
 				ItemStack randomSnack = menu.getRandomSnack(level.random);
 				if (!randomSnack.isEmpty()) {
-					HungryTools.LOGGER.info("{} is allergic to {}", stack.getDisplayName().getString(), randomSnack.getDisplayName().getString());
+//					HungryTools.LOGGER.info("{} is allergic to {}", stack.getDisplayName().getString(), randomSnack.getDisplayName().getString());
 					stack.set(HungryDataComponents.ALLERGIC, Ingredient.of(randomSnack));
 				}
 			}
