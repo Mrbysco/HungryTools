@@ -4,6 +4,9 @@
     "#c:gravels",
     "#minecraft:sand",
     "#c:concrete_powders",
-    "minecraft:clay"
+    "minecraft:clay",
+    "minecraft:soul_soil",
+    "minecraft:soul_sand",
+    "minecraft:mud"
   ]
 }

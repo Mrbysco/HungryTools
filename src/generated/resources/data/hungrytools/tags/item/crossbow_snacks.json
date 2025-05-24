@@ -2,6 +2,8 @@
   "values": [
     "#minecraft:arrows",
     "#c:strings",
-    "#c:rods/wooden"
+    "#c:rods/wooden",
+    "minecraft:firework_rocket",
+    "minecraft:tripwire_hook"
   ]
 }

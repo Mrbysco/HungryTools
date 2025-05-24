@@ -1,0 +1,12 @@
+{
+  "values": [
+    "minecraft:dirt",
+    "minecraft:gravel",
+    "minecraft:sand",
+    "minecraft:red_sand",
+    "minecraft:soul_sand",
+    "minecraft:soul_soil",
+    "minecraft:clay",
+    "minecraft:mud"
+  ]
+}

@@ -6,7 +6,14 @@
     "#c:bricks",
     "#minecraft:walls",
     "#c:concretes",
+    "#c:sandstone/slabs",
+    "#c:sandstone/blocks",
+    "#c:sandstone/stairs",
     "#c:glass_blocks",
-    "#c:glass_panes"
+    "#c:glass_panes",
+    "#c:bricks",
+    "minecraft:tuff",
+    "minecraft:blackstone",
+    "minecraft:deepslate"
   ]
 }

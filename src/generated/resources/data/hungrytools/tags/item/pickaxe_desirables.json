@@ -1,0 +1,16 @@
+{
+  "values": [
+    "minecraft:cobblestone",
+    "minecraft:stone",
+    "minecraft:netherrack",
+    "minecraft:end_stone",
+    "minecraft:bricks",
+    "minecraft:mud_bricks",
+    "minecraft:nether_bricks",
+    "minecraft:sandstone",
+    "minecraft:red_sandstone",
+    "minecraft:blackstone",
+    "minecraft:deepslate",
+    "minecraft:tuff"
+  ]
+}

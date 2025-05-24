@@ -4,6 +4,9 @@
     "#c:strings",
     "#c:bones",
     "#c:leathers",
+    "#c:ender_pearls",
+    "#c:rods/blaze",
+    "#minecraft:wool",
     "minecraft:vine",
     "minecraft:cobweb",
     "minecraft:cocoa_beans",
@@ -18,6 +21,14 @@
     "minecraft:carved_pumpkin",
     "minecraft:jack_o_lantern",
     "minecraft:glow_lichen",
-    "minecraft:moss_carpet"
+    "minecraft:moss_carpet",
+    "minecraft:nautilus_shell",
+    "minecraft:phantom_membrane",
+    "minecraft:shulker_shell",
+    "minecraft:wind_charge",
+    "minecraft:armadillo_scute",
+    "minecraft:rabbit_foot",
+    "minecraft:rabbit_hide",
+    "minecraft:saddle"
   ]
 }

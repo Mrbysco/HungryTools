@@ -4,6 +4,13 @@
     "#c:chests/wooden",
     "#c:bookshelves",
     "#c:fence_gates/wooden",
-    "#c:fences/wooden"
+    "#c:fences/wooden",
+    "#minecraft:logs",
+    "#minecraft:wooden_doors",
+    "#minecraft:wooden_stairs",
+    "#minecraft:wooden_slabs",
+    "#minecraft:wooden_pressure_plates",
+    "#minecraft:wooden_trapdoors",
+    "#minecraft:wooden_buttons"
   ]
 }
