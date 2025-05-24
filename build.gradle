@@ -137,7 +137,7 @@ if (System.getenv().CURSEFORGE_KEY) {
         mainFile.changelogType = 'markdown'
 
 //        mainFile.addRequirement()
-//        mainFile.addOptional()
+        mainFile.addOptional("jei")
     }
 }
 
@@ -154,7 +154,7 @@ if (System.getenv().MODRINTH_KEY) {
         loaders = ["neoforge"]
 
         dependencies {
-
+            optional.project("jei")
         }
     }
 }
