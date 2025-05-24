@@ -1,6 +1,5 @@
 package com.mrbysco.hungrytools.handler;
 
-import com.mrbysco.hungrytools.HungryTools;
 import com.mrbysco.hungrytools.api.SnackMenu;
 import com.mrbysco.hungrytools.config.HungryConfig;
 import com.mrbysco.hungrytools.registry.HungryDataComponents;

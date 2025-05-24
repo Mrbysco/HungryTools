@@ -1,10 +1,8 @@
 package com.mrbysco.hungrytools.datagen.server;
 
 import com.mrbysco.hungrytools.HungryTools;
-import com.mrbysco.hungrytools.registry.HungryTags;
 import net.minecraft.core.HolderLookup;
 import net.minecraft.data.PackOutput;
-import net.minecraft.tags.BlockTags;
 import net.neoforged.neoforge.common.data.BlockTagsProvider;
 import net.neoforged.neoforge.common.data.ExistingFileHelper;
 import org.jetbrains.annotations.Nullable;

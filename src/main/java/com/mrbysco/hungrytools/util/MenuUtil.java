@@ -77,6 +77,7 @@ public class MenuUtil {
 
 	/**
 	 * Get an unmodifiable view of the snack menus map
+	 *
 	 * @return an unmodifiable map of ResourceLocation to SnackMenu
 	 */
 	public static Map<ResourceLocation, SnackMenu> getSnackMenus() {

@@ -114,6 +114,7 @@ public record SnackMenu(Ingredient tool, List<SnackEntry> snacks, List<Ingredien
 
 	/**
 	 * Gets a random desirable item from the list of desirable items.
+	 *
 	 * @param random The random source to use for generating the random index.
 	 * @return A random desirable item stack.
 	 */
